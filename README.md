@@ -61,3 +61,10 @@ Fitto Kraft is a Flutter-based mobile application developed on **Google IDX**, w
 ## 🛠️ Setup Instructions
 
 1. Clone the repository  
+
+---
+
+## Contributors
+
+- [@shubhangguntaka](https://github.com/shubhangguntaka)
+- 
